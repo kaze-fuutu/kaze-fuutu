@@ -28,7 +28,7 @@
 <!-- LIVE:START -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/live-dark.svg" />
-  <img src="./assets/live-light.svg" alt="1 day streak, 1 contributions in 7 days" width="100%" />
+  <img src="./assets/live-light.svg" alt="1 day streak, 4 contributions in 7 days" width="100%" />
 </picture>
 
 <p align="center">Currently working on <b><a href="https://fuutu.com">Fuutu Stack</a></b></p>
