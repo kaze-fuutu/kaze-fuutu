@@ -32,7 +32,7 @@
 </picture>
 
 <p align="center">Currently working on <b><a href="https://fuutu.com">Fuutu Stack</a></b></p>
-<p align="center"><sub>Updated 24 Nov 2026</sub></p>
+<p align="center"><sub>Updated 25 Nov 2026</sub></p>
 <!-- LIVE:END -->
 
 <picture>
