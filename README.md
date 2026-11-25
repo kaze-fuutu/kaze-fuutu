@@ -28,10 +28,10 @@
 <!-- LIVE:START -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/live-dark.svg" />
-  <img src="./assets/live-light.svg" alt="1 day streak, 5 contributions in 7 days" width="100%" />
+  <img src="./assets/live-light.svg" alt="2 day streak, 7 contributions in 7 days" width="100%" />
 </picture>
 
-<p align="center">Currently working on <b><a href="https://fuutu.com">Fuutu Stack</a></b></p>
+<p align="center">Currently working on <b><a href="https://github.com/Fuutu-company/fuutu-stack">Fuutu-company/fuutu-stack</a></b></p>
 <p align="center"><sub>Updated 25 Nov 2026</sub></p>
 <!-- LIVE:END -->
 
