@@ -33,7 +33,7 @@
 
 <p align="center">Currently working on <b><a href="https://github.com/Fuutu-company/fuutu-stack">Fuutu-company/fuutu-stack</a></b></p>
 <p align="center"><sub>Recently merged</sub><br><a href="https://github.com/Fuutu-company/fuutu-stack/pull/85">feat(agents): agent workflow v2 — machine-enforced rules, close-work, fresh-context reviewer</a> <sub>Fuutu-company/fuutu-stack</sub></p>
-<p align="center"><sub>Updated 25 Nov 2026</sub></p>
+<p align="center"><sub>Updated 26 Nov 2026</sub></p>
 <!-- LIVE:END -->
 
 <picture>
