@@ -28,12 +28,12 @@
 <!-- LIVE:START -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/live-dark.svg" />
-  <img src="./assets/live-light.svg" alt="3 day streak, 10 contributions in 7 days" width="100%" />
+  <img src="./assets/live-light.svg" alt="0 day streak, 10 contributions in 7 days" width="100%" />
 </picture>
 
 <p align="center">Currently working on <b><a href="https://github.com/Fuutu-company/fuutu-stack">Fuutu-company/fuutu-stack</a></b></p>
 <p align="center"><sub>Recently merged</sub><br><a href="https://github.com/Fuutu-company/fuutu-stack/pull/85">feat(agents): agent workflow v2 — machine-enforced rules, close-work, fresh-context reviewer</a> <sub>Fuutu-company/fuutu-stack</sub></p>
-<p align="center"><sub>Updated 27 Nov 2026</sub></p>
+<p align="center"><sub>Updated 28 Nov 2026</sub></p>
 <!-- LIVE:END -->
 
 <picture>
